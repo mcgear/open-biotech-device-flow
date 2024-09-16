@@ -12,7 +12,7 @@ on:
 
 env:
   AZURE_FUNCTIONAPP_PACKAGE_PATH: .
-  AZURE_FUNCTIONAPP_NAME: mfrgd1-iot-devices-flow
+  AZURE_FUNCTIONAPP_NAME: fmt912a-iot-devices-flow
   NODE_VERSION: 18.x
 jobs:
   build:
